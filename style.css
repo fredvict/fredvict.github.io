@@ -4,3 +4,6 @@ body {
     color: rgb(225, 225, 225);
 };
 
+p {
+    align-content: center;
+}
