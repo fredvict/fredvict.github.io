@@ -1,12 +1,11 @@
 
-img {
-   width: 100%;
-   height: auto;
-}
 body {
     font-family: 'Patrick Hand', cursive;
+    margin: 0px;
 }
 
-#h {
-    background-image: url(img\IMG_0364.jpg);
+#intro {
+    background-image: url("img/nes-front.jpg");
+    padding-bottom: 900px;
+    padding-top: 900px;
 }
