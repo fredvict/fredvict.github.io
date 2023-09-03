@@ -1,0 +1,25 @@
+span {
+    background-color: rgb(16, 0, 81);
+    color: white;
+  }
+  .bigfont {
+    font-size: 150%;
+  }
+  #intro {
+    background-image: url("assets/nes-front-edit-1.jpg");
+    background-size: cover;
+    padding-bottom: 400px;
+    padding-top: 750px;
+  }
+  .container {
+    display: grid;
+    place-items: center;
+  }
+  
+  .imgGrid {
+    grid-row-start: 1;
+    grid-row-end: 1;
+    grid-column-start: 1;
+    grid-column-end: 1;
+  }
+ 
